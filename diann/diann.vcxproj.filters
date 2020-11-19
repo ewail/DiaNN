@@ -114,9 +114,6 @@
     <ClCompile Include="..\mstoolkit\src\zlib-1.2.8\zutil.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\src\diann.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\mstoolkit\src\MSToolkit\MSObject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -138,5 +135,16 @@
     <ClCompile Include="..\mstoolkit\src\MSToolkit\RAWReader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\sqlite\sqlite3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\diann.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="..\Predictor\x64\Deploy\Resource.res">
+      <Filter>Resource Files</Filter>
+    </Resource>
   </ItemGroup>
 </Project>

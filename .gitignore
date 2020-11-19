@@ -21,6 +21,9 @@
 *.db
 *.ipch
 *.cache
+*.msi
+
+
 
 
 
